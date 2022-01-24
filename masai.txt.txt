@@ -1,2 +1,2 @@
-git session 
-masai school
+Hello Masai
+git session
